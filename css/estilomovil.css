@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.paginamoviles{background:rgba(53,132,163,1.00)}
+.titulo { background:rgba(98,239,22,1.00); color:rgba(248,239,239,1.00); font-family: "android"; font-size:36px}
+.intro  { color:rgba(255,248,248,1.00); background: rgba(53,132,163,1.00);width:98%; height:350px;margin:1%}
+.imagenes{ width:150px; height:150px}
+.pienombre{ background:rgba(98,239,22,1.00); color:rgba(248,239,239,1.00); font-size:36px}
+.divsony{ background: rgba(0,0,0,1.00); COLOR:rgba(255,255,255,1.00)}
+.sonyfondo{background:rgba(255,255,255,1.00); color:rgba(83,83,83,1.00)}
+.sub{ font-size:20px; height:220px}
+.img{ width:150px; height:150px}
+.hiper{ text-decoration:none}
+.size{ font-size:16px}
+.catch{ width:auto; height:150px}
+.auto{ width:auto; height:auto}
+.tam{ width:250px}
+
+
